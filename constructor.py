@@ -7,4 +7,4 @@ class Student:
 
 s1=Student("vaibhav solanki",44)
 print(s1.name)
-print(s1.marks)         
+print(s1.marks)           
